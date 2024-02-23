@@ -1,5 +1,5 @@
 # A/B Testing Report: Control vs. Test Marketing Campaign
-[View the Jupyter Notebook](A_B Testing.ipynb)
+[View the Jupyter Notebook]([A_B Testing.ipynb](https://github.com/Illias-b/AB-Testing-Notebook.git))
 ## Background and Insight
 The primary objective of this A/B testing was to determine the most effective marketing strategy between two campaigns: the **Control Campaign** and the **Test Campaign**. The opportunity identified was to improve marketing ROI, increase conversion rates, and optimise the overall cost-efficiency of marketing efforts. The decision to conduct this test stemmed from a need to identify which campaign variables (e.g., ad creatives, targeting criteria, spending allocation) contribute most significantly to campaign success.
 
