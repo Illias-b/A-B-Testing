@@ -26,14 +26,15 @@ The **Control Campaign** emerged as the more cost-effective strategy, disproving
 The hypothesis was disproven; the Test Campaign did not outperform the Control Campaign in terms of the primary metrics.
 
 ## Performance of Variants and Effect
-![Placeholder for Conversion Rate and CTR Comparison](/path/to/conversion_rate_ctr_comparison.png)
+
 
 - **Conversion Rate:** No significant difference was found between the campaigns.
 - **CTR:** The Test Campaign achieved a higher CTR, suggesting better engagement but not necessarily higher conversion efficiency.
 - **CPA:** The Control Campaign demonstrated higher cost-efficiency with a lower CPA.
 - **ROAS:** The Control Campaign had a significantly higher ROAS, affirming its superior cost-effectiveness.
+![image](https://github.com/Illias-b/A-B-Testing/assets/33836566/b40a60e3-a4f4-450a-a498-f56b3794be63)
 
-![Placeholder for CPA and ROAS Comparison](/path/to/cpa_roas_comparison.png)
+
 
 ## Insights and Next Steps
 The results suggest that the Test Campaign's adjustments did not resonate as expected, despite higher initial engagement. The Control Campaign's strategies proved to be more effective in driving revenue relative to spend.
